@@ -1,0 +1,4 @@
+Necessary python scripts to reproduce Meadow Source imaging results for internship at Zanskar
+1. BeamFar.py: Beamforming assuming plane wave source from far field
+2. BeamLoc.py: Beamforming assuming local source
+3. Plot_BeamLoc.py: plot beamforming result for local source
